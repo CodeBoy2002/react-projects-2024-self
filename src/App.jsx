@@ -1,11 +1,11 @@
 import './App.css'
-import TaskCompleted from './components/TaskCompleted'
 
+import CitiesRegionDropdown from './components/Dropdown/CitiesRegionDropdown'
 
 function App() {
   return (
     <div>
-      <TaskCompleted/>
+      <CitiesRegionDropdown/>
     </div>
   )
 }
