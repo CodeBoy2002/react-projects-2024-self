@@ -1,11 +1,10 @@
 import './App.css'
-
-import CitiesRegionDropdown from './components/Dropdown/CitiesRegionDropdown'
+import CountSteps from './components/Usestate/CountSteps'
 
 function App() {
   return (
     <div>
-      <CitiesRegionDropdown/>
+      <CountSteps/>
     </div>
   )
 }
