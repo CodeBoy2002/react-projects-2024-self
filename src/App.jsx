@@ -1,10 +1,10 @@
 import './App.css'
-import CountSteps from './components/Usestate/CountSteps'
+import AutoFocusInput from './components/Usereff/AutoFocusInput'
 
 function App() {
   return (
     <div>
-      <CountSteps/>
+      <AutoFocusInput/>
     </div>
   )
 }
